@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>132999563-construction-workers-threading_jpg.rf.a62928830e129302982639172e6c9cb0.jpg</filename>
+	<path>132999563-construction-workers-threading_jpg.rf.a62928830e129302982639172e6c9cb0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>246</xmin>
+			<xmax>481</xmax>
+			<ymin>206</ymin>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>526</xmin>
+			<xmax>826</xmax>
+			<ymin>176</ymin>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>106</xmin>
+			<xmax>466</xmax>
+			<ymin>351</ymin>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>701</xmin>
+			<xmax>986</xmax>
+			<ymin>241</ymin>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+</annotation>

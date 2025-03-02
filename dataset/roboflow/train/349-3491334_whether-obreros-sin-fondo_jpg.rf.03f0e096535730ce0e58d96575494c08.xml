@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>349-3491334_whether-obreros-sin-fondo_jpg.rf.03f0e096535730ce0e58d96575494c08.jpg</filename>
+	<path>/home/cpow/Desktop/eageleeyes/dataset/roboflow/train/349-3491334_whether-obreros-sin-fondo_jpg.rf.03f0e096535730ce0e58d96575494c08.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>820</width>
+		<height>863</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>39</ymin>
+			<xmax>422</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>low quality vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>246</ymin>
+			<xmax>509</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

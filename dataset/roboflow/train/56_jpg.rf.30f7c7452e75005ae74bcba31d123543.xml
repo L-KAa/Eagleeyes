@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>56_jpg.rf.30f7c7452e75005ae74bcba31d123543.jpg</filename>
+	<path>/home/cpow/Desktop/eageleeyes/dataset/roboflow/train/56_jpg.rf.30f7c7452e75005ae74bcba31d123543.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>203</width>
+		<height>335</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>8</ymin>
+			<xmax>157</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no protective face gear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>67</ymin>
+			<xmax>127</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>low quality vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>96</ymin>
+			<xmax>163</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>download-7-_jpg.rf.5c75c9062d13b2db45c4bc91a85b7ae6.jpg</filename>
+	<path>download-7-_jpg.rf.5c75c9062d13b2db45c4bc91a85b7ae6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>64</xmin>
+			<xmax>155</xmax>
+			<ymin>1</ymin>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

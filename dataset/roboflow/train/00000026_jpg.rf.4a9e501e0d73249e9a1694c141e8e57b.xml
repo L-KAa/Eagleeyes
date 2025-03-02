@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>00000026_jpg.rf.4a9e501e0d73249e9a1694c141e8e57b.jpg</filename>
+	<path>/home/cpow/Desktop/eageleeyes/dataset/roboflow/train/00000026_jpg.rf.4a9e501e0d73249e9a1694c141e8e57b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no vest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>188</ymin>
+			<xmax>185</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>
